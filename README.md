@@ -56,10 +56,6 @@ Address 10 real-world ad-hoc data requests from the direct of Analytics at AtliQ
 📄 Deliverables
 Consumer-Goods-AdHoc-Insights.sql → SQL file with all 10 ad-hoc queries
 
-SQL-AdHoc-Insights-Jainam.pdf → Final presentation deck (visual storytelling)
-
-💬 LinkedIn Project Post → Check it out here
-
 
 
 🚀 What I Learned
