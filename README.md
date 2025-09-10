@@ -1,7 +1,7 @@
-🧠 Consumer Goods – Ad-Hoc SQL Insights
+## 🧠 Consumer Goods – Ad-Hoc SQL Insights
 SQL project created as part of Codebasics Resume Project Challenge #4 to simulate real-world business problem-solving through SQL. The project represents a set of data requests from AtliQ Hardware — a leading hardware manufacturer — to analyze their product, channel, and sales performance.
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 Address 10 real-world ad-hoc data requests from the direct of Analytics at AtliQ Hardware, with goal to:
 
@@ -13,7 +13,7 @@ Address 10 real-world ad-hoc data requests from the direct of Analytics at AtliQ
 
 
 
-📊 Key Business Insights
+## 📊 Key Business Insights
 1.	334 unique products launched in 2021 (vs. 245 in 2020)
 2.	‘Notebook’ category led with 129 new launches
 3.	‘Accessories’ segment showed high YoY growth potential
@@ -21,7 +21,7 @@ Address 10 real-world ad-hoc data requests from the direct of Analytics at AtliQ
 
    
 
-🛠️ Tools, Skills & SQL Concepts Used
+## 🛠️ Tools, Skills & SQL Concepts Used
 
 📌 Technical Skills:
 
@@ -53,12 +53,12 @@ Address 10 real-world ad-hoc data requests from the direct of Analytics at AtliQ
 
 
 
-📄 Deliverables
+## 📄 Deliverables
 Consumer-Goods-AdHoc-Insights.sql → SQL file with all 10 ad-hoc queries
 
 
 
-🚀 What I Learned
+## 🚀 What I Learned
 
 •	How to approach business-oriented data requests using core SQL
 
